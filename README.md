@@ -15,4 +15,4 @@ This Readme is My Stats.
 <!-- - ⚡ Fun fact: ... -->
 
 ### 📊 My GitHub Stats
-[![HK's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHkkang&show_icons=true&count_private=true&theme=dark)](https://github.com/CHkkang/CHkkang)
+  [![CHkkang's github stats](https://github-readme-stats.vercel.app/api?CHkkang=CHkkang)](https://github.com/CHkkang/github-readme-stats)

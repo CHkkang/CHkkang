@@ -6,7 +6,7 @@ This Readme is My Stats.
 
 #### 
 - 🔭 I’m currently working on [PromptechTechnology](http://www.promptech.co.kr/)
-- 🌱 I’m currently learning <b>Spring<b>, <b>Ruby<b>
+- 🌱 I’m currently learning <b>Go<b>, <b>REACT<b>
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->

@@ -15,4 +15,4 @@ This Readme is My Stats.
 <!-- - ⚡ Fun fact: ... -->
 
 ### 📊 My GitHub Stats
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?KangChanHyeok=KangChanHyeok)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHkkang)](https://github.com/anuraghazra/github-readme-stats)
